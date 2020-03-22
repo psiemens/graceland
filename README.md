@@ -2,9 +2,9 @@
 
 Graceful shutdown for multi-routine Go programs.
 
-> The Mississippi Delta was shining like a national guitar 🎸
-
 ![Paul & Chevy](https://media.giphy.com/media/uJRZ6N5ZlYRvq/source.gif)
+
+> The Mississippi Delta was shining like a national guitar 🎸
 
 ## Usage
 
